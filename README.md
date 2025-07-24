@@ -14,7 +14,7 @@ pages={},
 year={2025},  
 publisher={Springer},  
 doi = {},  
-note = {Accepted}
+note = {Accepted}  
 }  
 
 ## Datasets and Libraries
