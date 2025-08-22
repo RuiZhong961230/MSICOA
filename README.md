@@ -10,11 +10,10 @@ title={Multi-Strategies Improved Coati Optimization Algorithm and Performance An
 author={Chunqing Li and Zhongmin Wang and Jun Yu and Mahmoud Abdel-Salam and Essam H. Houssein and Rui Zhong},  
 journal={Knowledge and Information Systems},  
 volume={},  
-pages={},  
+pages={1-65},  
 year={2025},  
 publisher={Springer},  
-doi = {},  
-note = {Accepted}  
+doi = {https://doi.org/10.1007/s10115-025-02561-9 }   
 }  
 
 ## Datasets and Libraries
